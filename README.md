@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hai Dang Pham or Thomas Pham 👋
 
 ### 📊 Data Scientist | Mathematical Analyst | Embedded Systems Enthusiast
 Current student at **Tampere University**, specializing in **Mathematics and Statistical Data Analysis**. I am passionate about bridging the gap between theoretical statistics and physical hardware.
